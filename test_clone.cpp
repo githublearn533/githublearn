@@ -18,6 +18,7 @@ int main ()
         cout << "hello, github tag test! \n";
 
         cout << "hello, github tag test  git tag ! \n";
+        cout << "hello, github tag test  git tag ! \n";
 
 
     return 0;
