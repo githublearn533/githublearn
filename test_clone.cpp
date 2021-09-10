@@ -11,6 +11,14 @@ int main ()
     cout << "hello, sandy! \n";
     cout << "hello, sandy! \n";
 
+    cout << "hello, sandy! \n";
+    cout << "hello, sandy! \n";
+    cout << "hello, sandy! \n";
+    cout << "hello, sandy! \n";
+    cout << "hello, sandy! \n";
+    cout << "hello, sandy! \n";
+    cout << "hello, sandy! \n";
+
 
         cout << "hello, github! \n";
 
